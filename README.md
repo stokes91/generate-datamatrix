@@ -47,7 +47,7 @@ codewords that improve efficiency for reduced character sets.
 
 ## Zero dependencies
 
-It's just half a thousand lines of clear, readable, code.
+It's just a few hundred lines of clear, readable, code.
 
 ## Also Free
 
