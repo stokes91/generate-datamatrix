@@ -45,9 +45,9 @@ console.log(datamatrix.renderAscii());
 Currently, only ASCII encoding is supported. The Data Matrix specification includes a number of additional
 codewords that improve efficiency for reduced character sets.
 
-## Zero dependencies
+## One dependency
 
-It's just a few hundred lines of clear, readable, code.
+It's just a few hundred lines of clear, readable, code; and relies on reed-solomon-datamatrix.
 
 ## Also Free
 

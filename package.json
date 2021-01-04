@@ -24,5 +24,8 @@
   "bugs": {
     "url": "https://github.com/stokes91/generate-datamatrix/issues"
   },
-  "homepage": "https://github.com/stokes91/generate-datamatrix#readme"
+  "homepage": "https://github.com/stokes91/generate-datamatrix#readme",
+  "dependencies": {
+    "reed-solomon-datamatrix": "^1.1.5"
+  }
 }
