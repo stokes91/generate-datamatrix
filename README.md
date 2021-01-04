@@ -17,7 +17,7 @@ datamatrix.encodeAscii('Hello World!');
 console.log(datamatrix.renderAscii());
 ```
 
-###Resulting text
+## Resulting Text
 ```
 ████████████████████████████████████
 ██  ██  ██  ██  ██  ██  ██  ██  ████
