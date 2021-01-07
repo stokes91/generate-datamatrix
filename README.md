@@ -14,6 +14,9 @@ const datamatrix = new DataMatrix();
 
 datamatrix.encodeAscii('Hello World!');
 
+// Or, datamatrix.encodeX11 for alphanumeric and a few add'l characters.
+// datamatrix.encodeX11('HELLO WORLD');
+
 console.log(datamatrix.renderAscii());
 ```
 
