@@ -1,6 +1,6 @@
 {
   "name": "generate-datamatrix",
-  "version": "1.0.0",
+  "version": "1.6.0",
   "description": "Generate Data Matrix Codes - JavaScript implementation",
   "main": "main.js",
   "directories": {
