@@ -18,6 +18,8 @@ datamatrix.encodeAscii('Hello World!');
 // datamatrix.encodeX11('HELLO WORLD');
 
 console.log(datamatrix.renderAscii());
+
+// Or, datamatrix.renderPBM for a Portable BitMap
 ```
 
 ## Resulting Text
@@ -45,8 +47,8 @@ console.log(datamatrix.renderAscii());
 
 ## Basic Support
 
-Currently, only ASCII encoding is supported. The Data Matrix specification includes a number of additional
-codewords that improve efficiency for reduced character sets.
+Currently, only ASCII and X12 encoding is supported. The Data Matrix specification includes a number of additional
+codewords that improve efficiency for reduced character sets. Output is either ASCII or PBM.
 
 ## One dependency
 
