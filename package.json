@@ -1,6 +1,6 @@
 {
   "name": "generate-datamatrix",
-  "version": "1.6.8",
+  "version": "1.7.0",
   "description": "Generate Data Matrix Codes - JavaScript implementation",
   "main": "main.js",
   "directories": {
@@ -26,6 +26,6 @@
   },
   "homepage": "https://github.com/stokes91/generate-datamatrix#readme",
   "dependencies": {
-    "reed-solomon-datamatrix": "^1.1.5"
+    "rs-finite-field": "^2.0.0"
   }
 }
